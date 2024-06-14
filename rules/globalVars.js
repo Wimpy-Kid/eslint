@@ -2,5 +2,7 @@
 
 module.exports = {
     getCurrentPages: true,
-    uni: true
+    getApp: true,
+    uni: true,
+    wx: true
 }
