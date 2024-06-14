@@ -3,4 +3,7 @@
 
 安装：`npm i cherrylu-eslint`
 
-规则文件：`eslint.config.mjs`
+自定义规则请放入`rules`文件夹下对应文件
+
+加载规则文件：`eslint.config.mjs`
+
