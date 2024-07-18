@@ -11,6 +11,12 @@ module.exports = {
         "vue/component-definition-name-casing":["error", "PascalCase"],
         "vue/no-v-html":"off",
         "vue/no-unused-vars": 2,
+        "vue/html-indent": ["error", 2, {
+            "alignAttributesVertically": true,
+            "baseIndent": 0,
+            "attribute": 1,
+            "closeBracket": 0
+        }],
         "vue/no-undef-properties": 2,
         "vue/multi-word-component-names": "off",
         'accessor-pairs':2,
